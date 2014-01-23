@@ -40,3 +40,19 @@ body {
 .project a {
      text-align: center;
 }
+
+.slide {
+     display: none !important;
+}
+
+.thumbnail p, .thumbnail p:hover {
+     text-decoration: none !important;
+     font-style: italic;
+     color: black;
+     margin-top: 5px;
+}
+
+#projectForm {
+     width: 60%;
+     margin: 0px auto;
+}
